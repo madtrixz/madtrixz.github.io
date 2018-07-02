@@ -1,1 +1,8 @@
+title: " "
+description: > # this means to ignore newlines until "baseurl:"
+  <br><a href="http://ostree.github.io"><img src="ostree.github.io/Pitbull_Logo_by_Berserker82.gif"></a><br>
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+
 theme: jekyll-theme-minimal
